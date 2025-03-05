@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on building an AI startup GoCharlie.ai
 - 💬 Ask me about generative AI, transformer models, and LLM agents
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatalis)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hatalis/hatalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

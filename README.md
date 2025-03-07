@@ -1,10 +1,7 @@
-<h1 style="text-align: center;
-           font-size: 40px;
-           font-weight: bold;
-           background: linear-gradient(to right, #8A2BE2, #4169E1);">
- Kostas Hatalis
-</h1>
-
+<p align="center">
+    <img src="https://gocharlie.ai/wp-content/uploads/2023/01/logo-black-02-768x148.png"
+        height="64">
+</p>
 <p align="center">
   <a href="https://x.com/kostashatalis">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />

@@ -1,7 +1,12 @@
-
 <p align="center">
-  <a href="https://www.site.com">
+  <h2>Kostas Hatalis</h2>
+</p>
+<p align="center">
+  <a href="https://x.com/kostashatalis">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="[https://www.site.com](https://www.linkedin.com/in/kostashatalis/)">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
 </p>
 

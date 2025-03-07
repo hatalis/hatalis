@@ -1,9 +1,10 @@
+
 <p align="center">
-  <h2>Kostas Hatalis</h2>
   <a href="https://www.site.com">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />
   </a>
 </p>
+
 - 🔭 I’m currently working on building an AI startup GoCharlie.ai
 - 💬 Ask me about generative AI, transformer models, and LLM agents
 <!--

@@ -1,14 +1,9 @@
-
-<p align="center">
-  <div style="font-size: 40px; font-weight: bold;
-            background: linear-gradient(to right, #8A2BE2, #4169E1);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            display: inline-block;">
-  Kostas Hatalis
-</div>
-
-</p>
+<h1 style="text-align: center;
+           font-size: 40px;
+           font-weight: bold;
+           background: linear-gradient(to right, #8A2BE2, #4169E1);">
+ Kostas Hatalis
+</h1>
 
 <p align="center">
   <a href="https://x.com/kostashatalis">

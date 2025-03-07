@@ -1,6 +1,13 @@
 
 <p align="center">
-  <h2>Kostas Hatalis</h2>
+  <div style="font-size: 40px; font-weight: bold;
+            background: linear-gradient(to right, #8A2BE2, #4169E1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;">
+  Kostas Hatalis
+</div>
+
 </p>
 
 <p align="center">

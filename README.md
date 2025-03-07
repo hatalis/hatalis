@@ -11,6 +11,8 @@
   </a>
 </p>
 
+# Kostas Hatalis 
+- ⚡ I'm an AI researcher with a PhD from Lehigh University.
 - 🔭 I’m currently working on building an AI startup GoCharlie.ai
 - 💬 Ask me about generative AI, transformer models, and LLM agents
 <!--

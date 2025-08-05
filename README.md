@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gocharlie.ai/wp-content/uploads/2023/01/logo-black-02-768x148.png"
+    <img src="https://www.gocharlie.ai/_astro/logo.ZYqxELrg_ZMAYq9.webp"
         height="64">
 </p>
 <p align="center">
@@ -20,7 +20,7 @@
 # Kostas Hatalis 
 - ⚡ I'm an AI researcher with a PhD from Lehigh University.
 - 🔭 I’m currently working on building an AI startup GoCharlie.ai
-- 💬 Ask me about generative AI, transformer models, and LLM agents
+- 💬 Ask me anything about generative AI, multimodal models, RAG, and LLM agents
 <!--
 **hatalis/hatalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
